@@ -72,8 +72,6 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 
 ## HPC
 
-About this section. Optional. Keep this short and focus on the list.
-
 ### General Information
 
 - [AWS Batch Landing Page](https://aws.amazon.com/batch/)
