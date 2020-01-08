@@ -19,6 +19,8 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 
 ## Getting Started
 
+Learn all about core services available for compute, storage, networking, and how to control cost in this section with services like Elastic Cloud Compute (EC2), Simple Storage Service (S3), networking fundementals with Transit Gateway, and cost control with AWS Budgets and CloudWatch Alerts.
+
 ### Guides 
 - [Intro to AWS](https://aws.amazon.com/getting-started/)
 - [Open Guide to AWS](https://github.com/open-guides/og-aws)
@@ -72,8 +74,11 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 
 ## HPC
 
+IN this section you will learn all about HPC services offered in AWS like cloud native scheduling with AWS Batch, using traditional job schedulers like Slurm with AWS ParallelCluster, and features like Elastic Fabric Adapter (EFA) to scale Message Passing Interface (MPI) and Machine Learning (ML) jobs in your cloud HPC clusters.
+
 ### General Information
 
+- [HPC on AWS](https://aws.amazon.com/hpc/)
 - [AWS Batch Landing Page](https://aws.amazon.com/batch/)
 - [AWS Batch Documentation](https://docs.aws.amazon.com/batch/)
 - [AWS Batch Getting Started Guide](https://docs.aws.amazon.com/batch/latest/userguide/Batch_GetStarted.html)
@@ -104,7 +109,6 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 
 - [AWS Batch with Elastic Fabric Adapter (EFA)](https://github.com/aws-samples/aws-batch-efa)
 - [AWS ParallelCluster Price Perfomance](https://github.com/aws-samples/aws-parallelcluster-price-performance)
-  
 
 ### HPC Bursting
 
@@ -120,6 +124,8 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 - [Bursting with Slurm Part 2](https://aws.amazon.com/blogs/compute/deploy-a-burstable-and-event-driven-hpc-cluster-on-aws-using-slurm-part-2/)
 
 ## Machine Learning
+
+Learn about end-to-end Machine Learning resources in AWS like Amazon SageMaker, leverage AI Services like Amazon Comprehend for sentiment analysis, Amazon Transcribe for speech to text, or Translate to provide language translation without needing the knowledge of building ML models. 
 
 ### General Information
 
@@ -186,6 +192,8 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 
 ## Containers
 
+AWS has a number of container offerings like Elastic Container Service (ECS) or Elastic Kubernetes Service (EKS). Learn about how to use managed Kubernetes for Machine Learning, Analytics, and HPC workloads. 
+
 ### General Information
 
 - [AWS Training & Certification Free Digital Training](https://www.aws.training/LearningLibrary?filters=language%3A1&filters=classification%3A20&filters=digital%3A1&search=&tab=view_all)
@@ -224,6 +232,8 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 
 ## Security
 
+Security at AWS is job zero and here you can learn all about the available services for security and how to implement workloads minimizing blast radius, integrating identity, and protecting your storage workloads at rest and in transit with service like Key Management Service (KMS), Identity and Access Management (IAM), and AWS GuardDuty for threat detection.
+
 ### General Information
 
 - [AWS Training & Certification Free Digital Training](https://www.aws.training/LearningLibrary?filters=language%3A1&filters=digital%3A1&filters=classification%3A27&search=&tab=view_all)
@@ -246,10 +256,11 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 - [The fundamentals of AWS cloud security](https://www.youtube.com/watch?v=QMBkq6MrT2w)
 - [Best Practices for Public Sector AWS Security Posture](https://www.youtube.com/watch?v=07V7oId_kLA)
 
-
 ### Tutorials
-  
+
 ## Robotics
+
+AWS RoboMaker, it is easy to enable a robot to stream data, navigate, communicate, comprehend, and learn. Tasks that once could either not be done or took months can now be done in hours or days. RoboMaker provides an IDE, simulation service, fleet management capabilities, and seamless integration with various Amazon and AWS services to empower customers to innovate and provide best-of-class robotic solutions.
 
 ### Workshops
 
@@ -262,6 +273,10 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 ### Blogs
 
 - [An introduction to reinforcement learning with AWS RoboMaker](https://aws.amazon.com/blogs/machine-learning/an-introduction-to-reinforcement-learning-with-aws-robomaker/)
+- [Deploy Robotic Applications Using AWS RoboMaker](https://aws.amazon.com/blogs/robotics/deploy-robotic-applications-using-aws-robomaker/)
+- [Fresno State builds an autonomous Bulldog Bot with AWS RoboMaker
+](https://aws.amazon.com/blogs/publicsector/fresno-state-builds-an-autonomous-bulldog-bot-with-aws-robomaker/?nc1=b_rp)
+
 
 ### Videos
 
@@ -270,8 +285,11 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 
 ## Management & Governance
 
+Enable, Provision, and Operate at scale by using AWS Control Tower for your account management solution. Utilize AWS CLoudFormation or the Cloud Development Kit (CDK) to provision resources in your accounts providing the ability to not only reproduce your research but the environment it ran in as well.
+
 ### General Information
 
+- [Management & Governance Langing Page](https://aws.amazon.com/products/management-tools/)
 - [AWS Training & Certification Free Digital Training](https://www.aws.training/LearningLibrary?filters=language%3A1&filters=digital%3A1&filters=classification%3A54&search=&tab=view_all)
 
 ### Workshops
