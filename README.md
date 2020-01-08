@@ -14,8 +14,8 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 - [Machine Learning](#machine-learning)
 - [Containers](#containers)
 - [Security](#security)
-- [Management & Governance](#management-&-governance)
 - [Robotics](#robotics)
+- [Management & Governance](#management-&-governance)
 
 ## Getting Started
 
@@ -32,6 +32,7 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 - [Launch a Linux Virtual Machine](https://aws.amazon.com/getting-started/tutorials/launch-a-virtual-machine/?trk=gs_card&e=gs&p=gsrc)
 - [Store and Retrieve a file](https://aws.amazon.com/getting-started/tutorials/backup-files-to-amazon-s3/?trk=gs_card&e=gs&p=gsrc)
 - [Host Static Web Site](https://aws.amazon.com/getting-started/projects/host-static-website/?trk=gs_card)
+- [Controlling Costs with Frie tier and Budgets](https://aws.amazon.com/getting-started/tutorials/control-your-costs-free-tier-budgets/?trk=gs_card)
 
 ### Services
 
@@ -61,7 +62,12 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 - [AWS Outposts: Extend the AWS experience to on-premises environments](https://www.youtube.com/watch?v=8vNnkN7LX8s)
 - [Cost Optimization with Containers and Spot](https://www.youtube.com/watch?v=OpNBldEww0Q)
 - [AWS networking fundamentals](https://www.youtube.com/watch?v=gj4CD73Wmns)
-
+- [Monitoring the Earth without costing the world](https://www.youtube.com/watch?v=sVMXR2qCE5E)
+- [Get your data to AWS: How to choose and use data migration services](https://www.youtube.com/watch?v=KAuS-ge_X7Y)
+- [Connectivity to AWS and hybrid AWS network architectures](https://www.youtube.com/watch?v=eqW6CPb58gs)
+- [NIH uses the cloud to accelerate cures](https://www.youtube.com/watch?v=aU63OBxweUU)
+- [Accelerating Time to Science Using Cloud](https://www.youtube.com/watch?v=5Pt-3BK0kJc) 
+- [Enabling Research Using Cloud](https://www.youtube.com/watch?v=yT5cPEWC9Ls&t=131s)
 
 ## HPC
 
@@ -90,6 +96,9 @@ About this section. Optional. Keep this short and focus on the list.
 - [A Scientist's Guide to Cloud-HPC: Example with AWS ParallelCluster, Slurm, Spack, and WRF](https://jiaweizhuang.github.io/blog/aws-hpc-guide/)
 
 ### Videos
+
+- [AWS infrastructure for large-scale training at Facebook AI](https://www.youtube.com/watch?v=NUGxyB7TGrQ)
+- [Enabling Research using Hybrid HPC Cloud Computing](https://www.youtube.com/watch?v=46XxNAtQ96w)
 
 
 ### Tutorials
@@ -164,9 +173,12 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Videos
 
+- [Artificial Intelligence and Machine Learning in Research](https://www.youtube.com/watch?v=fUYRUNWXNjo)
 - [Deep learning for disaster management and response](https://www.youtube.com/watch?v=BKRN3tq_rSo)
 - [End-to-end machine learning using Spark and Amazon SageMaker](https://www.youtube.com/watch?v=FKgivdwzO5g)
 - [Amazon SageMaker deep dive: A modular solution for machine learning](https://www.youtube.com/watch?v=Ac5m4-xWtCU)
+- [ Insights into patient health with Amazon Comprehend Medical](https://www.youtube.com/watch?v=x9HD0tT6pDk)
+- [Build accurate training datasets with Amazon SageMaker Ground Truth](https://www.youtube.com/watch?v=6WJxzKsIFKA)
 
 ### Tutorials
 
@@ -206,6 +218,8 @@ About this section. Optional. Keep this short and focus on the list.
 - [EKS under the hood](https://www.youtube.com/watch?v=7vxDWDD2YnM)
 - [Running Kubernetes at Amazon scale using Amazon EKS](https://www.youtube.com/watch?v=M-Fh0OzliJI)
 - [Building machine-learning infrastructure on Amazon EKS with Kubeflow](https://www.youtube.com/watch?v=ULlqukKVKBo)
+- [Top 5 container and Kubernetes best practices](https://www.youtube.com/watch?v=bG9NrjznH3U)
+- [Running Containers in a Hybrid Environment](https://www.youtube.com/watch?v=loiKJJddbKc)
 
 ### Tutorials
 - [Deploy Kubenertes on EKS](https://aws.amazon.com/getting-started/projects/deploy-kubernetes-app-amazon-eks/?trk=gs_card) 
@@ -227,16 +241,35 @@ About this section. Optional. Keep this short and focus on the list.
 - [SAML with ADFS or Shibboleth](http://federationworkshopreinvent2016.s3-website-us-east-1.amazonaws.com/)
 - [Threat Detection with SageMaker and GuardDuty](https://ml-threat-detection.awssecworkshops.com/)
 
-
 ### Blogs
 
 ### Videos
 
 - [The fundamentals of AWS cloud security](https://www.youtube.com/watch?v=QMBkq6MrT2w)
+- [Best Practices for Public Sector AWS Security Posture](https://www.youtube.com/watch?v=07V7oId_kLA)
 
 
 ### Tutorials
   
+## Robotics
+
+### Workshops
+
+- [Build and operate a smart robot](https://robomakerworkshops.com/jetbot-teleop-workshop/)
+- [AWS RoboMaker Turtlebot](https://robomakerworkshops.com/workshop/)
+- [RISE OF THE MACHINES: BRING ARTIFICIAL INTELLIGENCE TO YOUR ROBOT](https://robomakerworkshops.com/jetbot-ml-workshop/)
+- [Finding Martians with AWS RoboMaker and the JPL Open Source Rover](https://robomakerworkshops.com/open-source-rover/)
+- [Voice controlled robots](http://voiceroboticsworkshop.com/)
+
+### Blogs
+
+- [An introduction to reinforcement learning with AWS RoboMaker](https://aws.amazon.com/blogs/machine-learning/an-introduction-to-reinforcement-learning-with-aws-robomaker/)
+
+### Videos
+
+- [Innovation in robotics: Insights from NASA JPL and AWS](https://www.youtube.com/watch?v=PbwZ8WLDp8A)
+
+
 ## Management & Governance
 
 ### General Information
@@ -258,24 +291,6 @@ About this section. Optional. Keep this short and focus on the list.
 - [Deep dive into AWS Cloud Development Kit](https://www.youtube.com/watch?v=9As_ZIjUGmY)
 
 ### Tutorials
-
-## Robotics
-
-### Workshops
-
-- [Build and operate a smart robot](https://robomakerworkshops.com/jetbot-teleop-workshop/)
-- [AWS RoboMaker Turtlebot](https://robomakerworkshops.com/workshop/)
-- [RISE OF THE MACHINES: BRING ARTIFICIAL INTELLIGENCE TO YOUR ROBOT](https://robomakerworkshops.com/jetbot-ml-workshop/)
-- [Finding Martians with AWS RoboMaker and the JPL Open Source Rover](https://robomakerworkshops.com/open-source-rover/)
-- [Voice controlled robots](http://voiceroboticsworkshop.com/)
-
-### Blogs
-
-- [An introduction to reinforcement learning with AWS RoboMaker](https://aws.amazon.com/blogs/machine-learning/an-introduction-to-reinforcement-learning-with-aws-robomaker/)
-
-### Videos
-
-- [Innovation in robotics: Insights from NASA JPL and AWS](https://www.youtube.com/watch?v=PbwZ8WLDp8A)
 
 
 ## Contribute
