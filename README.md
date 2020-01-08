@@ -49,7 +49,8 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 - [Storage services overview](https://d1.awsstatic.com/whitepapers/AWS%20Storage%20Services%20Whitepaper-v9.pdf?did=wp_card&trk=wp_card)
 - [Deep Learning](https://d1.awsstatic.com/whitepapers/Deep_Learning_on_AWS.pdf?did=wp_card&trk=wp_card)
 - [EC2 Spot Best Practices](https://d1.awsstatic.com/whitepapers/cost-optimization-leveraging-ec2-spot-instances.pdf?did=wp_card&trk=wp_card)
-- 
+
+
 ### Workshops
 
 - [AWS Account & Root User Basics](https://wellarchitectedlabs.com/Security/100_AWS_Account_and_Root_User/README.html)
@@ -120,7 +121,6 @@ About this section. Optional. Keep this short and focus on the list.
 - [Bursting with Slurm Part 1](https://aws.amazon.com/blogs/compute/deploying-a-burstable-and-event-driven-hpc-cluster-on-aws-using-slurm-part-1/)
 - [Bursting with Slurm Part 2](https://aws.amazon.com/blogs/compute/deploy-a-burstable-and-event-driven-hpc-cluster-on-aws-using-slurm-part-2/)
 
-
 ## Machine Learning
 
 ### General Information
@@ -133,7 +133,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [AWSLabs Machine Learning Samples](https://github.com/aws-samples/machine-learning-samples)
 - [Augmented AI Example UIs](https://github.com/aws-samples/amazon-a2i-sample-task-uis)
 - [Group Truth data labeling UIs](https://github.com/aws-samples/amazon-sagemaker-ground-truth-task-uis)
-  
+
 
 ### Workshops
 
@@ -147,7 +147,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [MLOps with Amazon SageMaker](https://github.com/aws-samples/amazon-sagemaker-devops-with-ml)
 - [Object Detection from scratch with Amazon SageMaker](https://github.com/aws-samples/amazon-sagemaker-object-detection-from-scratch)
 - [Elastic Inference Object Detection with Amazon SageMaker](https://github.com/aws-samples/aws-elastic-inference-tensorflow-examples)
-- 
+
 ### Blogs
 
 #### SageMaker
