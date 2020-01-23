@@ -34,7 +34,7 @@ Learn all about core services available for compute, storage, networking, and ho
 - [Launch a Linux Virtual Machine](https://aws.amazon.com/getting-started/tutorials/launch-a-virtual-machine/?trk=gs_card&e=gs&p=gsrc)
 - [Store and Retrieve a file](https://aws.amazon.com/getting-started/tutorials/backup-files-to-amazon-s3/?trk=gs_card&e=gs&p=gsrc)
 - [Host Static Web Site](https://aws.amazon.com/getting-started/projects/host-static-website/?trk=gs_card)
-- [Controlling Costs with Frie tier and Budgets](https://aws.amazon.com/getting-started/tutorials/control-your-costs-free-tier-budgets/?trk=gs_card)
+- [Controlling Costs with Free tier and Budgets](https://aws.amazon.com/getting-started/tutorials/control-your-costs-free-tier-budgets/?trk=gs_card)
 
 ### Services
 
