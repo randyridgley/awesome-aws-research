@@ -179,6 +179,7 @@ Learn about end-to-end Machine Learning resources in AWS like Amazon SageMaker, 
 - [Building predictive disease models using Amazon SageMaker with Amazon HealthLake normalized data](https://aws.amazon.com/blogs/machine-learning/building-predictive-disease-models-using-amazon-sagemaker-with-amazon-healthlake-normalized-data/)
 
 #### AI Services 
+- [Custom Classifier with Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-a-custom-classifier-using-amazon-comprehend/)
 - [Amazon Rekognition custom labels](https://aws.amazon.com/blogs/machine-learning/announcing-amazon-rekognition-custom-labels/)
 - [Applying voice classification in an Amazon Connect telemedicine contact flow](https://aws.amazon.com/blogs/machine-learning/applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow/)
 - [Building a medical image search platform on AWS](https://aws.amazon.com/blogs/machine-learning/building-a-medical-image-search-platform-on-aws/)
