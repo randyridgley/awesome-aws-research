@@ -16,6 +16,7 @@ Along with the collaboration above AWS provides [Cloud Credits for Research](htt
 - [Security](#security)
 - [Robotics](#robotics)
 - [Management & Governance](#management-&-governance)
+- [Genomics](#Genomics)
 
 ## Getting Started
 
@@ -28,6 +29,7 @@ Learn all about core services available for compute, storage, networking, and ho
 - [Open Data Registry on AWS](https://registry.opendata.aws/)
 - [Amazon Science](https://www.amazon.science/)
 - [AWS Training & Certificaton Free Cloud Essentials Digital Training](https://www.aws.training/LearningLibrary?filters=language%3A1&filters=digital%3A1&filters=classification%3A101&search=&tab=view_all)
+- [AWS Innovation Sandbox](https://aws.amazon.com/solutions/implementations/aws-innovation-sandbox/?did=sl_card&trk=sl_card)
 
 ### Tutorials
 
@@ -35,6 +37,10 @@ Learn all about core services available for compute, storage, networking, and ho
 - [Store and Retrieve a file](https://aws.amazon.com/getting-started/tutorials/backup-files-to-amazon-s3/?trk=gs_card&e=gs&p=gsrc)
 - [Host Static Web Site](https://aws.amazon.com/getting-started/projects/host-static-website/?trk=gs_card)
 - [Controlling Costs with Free tier and Budgets](https://aws.amazon.com/getting-started/tutorials/control-your-costs-free-tier-budgets/?trk=gs_card)
+- [Set up HIPAA Reference Architecture on AWS](https://aws.amazon.com/quickstart/architecture/compliance-hipaa/)
+- [FHIRWorks on AWS](https://aws.amazon.com/solutions/implementations/fhir-works-on-aws/?did=sl_card&trk=sl_card)
+- [Service Workbench on AWS](https://aws.amazon.com/solutions/implementations/service-workbench-on-aws/?did=sl_card&trk=sl_card)
+- [HITRUST on AWS](https://aws.amazon.com/quickstart/architecture/compliance-hitrust/)
 
 ### Services
 
@@ -151,6 +157,8 @@ Learn about end-to-end Machine Learning resources in AWS like Amazon SageMaker, 
 - [MLOps with Amazon SageMaker](https://github.com/aws-samples/amazon-sagemaker-devops-with-ml)
 - [Object Detection from scratch with Amazon SageMaker](https://github.com/aws-samples/amazon-sagemaker-object-detection-from-scratch)
 - [Elastic Inference Object Detection with Amazon SageMaker](https://github.com/aws-samples/aws-elastic-inference-tensorflow-examples)
+- [Document Understanding Solution](https://aws.amazon.com/solutions/implementations/document-understanding-solution/?did=sl_card&trk=sl_card)
+- [AI-Powered Health Data Masking](https://aws.amazon.com/solutions/implementations/ai-powered-health-data-masking/?did=sl_card&trk=sl_card)
 
 ### Blogs
 
@@ -158,6 +166,7 @@ Learn about end-to-end Machine Learning resources in AWS like Amazon SageMaker, 
 - [AWS DataExchange and Amazon SageMaker for sharing data for ML workloads](https://aws.amazon.com/blogs/machine-learning/building-machine-learning-workflows-with-aws-data-exchange-and-amazon-sagemaker/)
 - [Semantic segmentation labeling with Amazon SageMaker Ground Truth](https://aws.amazon.com/blogs/machine-learning/auto-segmenting-objects-when-performing-semantic-segmentation-labeling-with-amazon-sagemaker-ground-truth/)
 - [Amazon SageMaker multi-model inference endpoints](https://aws.amazon.com/blogs/machine-learning/save-on-inference-costs-by-using-amazon-sagemaker-multi-model-endpoints/)
+- [Annotate DICOM images and build an ML model](https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/)
 - [Batch Inference with Amazon SageMaker and Tensorflow](https://aws.amazon.com/blogs/machine-learning/performing-batch-inference-with-tensorflow-serving-in-amazon-sagemaker/)
 - [Optimizing TensorFlow model serving with Kubernetes and Amazon Elastic Inference](https://aws.amazon.com/blogs/machine-learning/optimizing-tensorflow-model-serving-with-kubernetes-and-amazon-elastic-inference/)  
 - [Power contextual bandits using continual learning with Amazon SageMaker RL](https://aws.amazon.com/blogs/machine-learning/power-contextual-bandits-using-continual-learning-with-amazon-sagemaker-rl/)
@@ -167,13 +176,22 @@ Learn about end-to-end Machine Learning resources in AWS like Amazon SageMaker, 
 - [Amazon SageMaker automatic model tuning now supports random search and hyperparameter scaling](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-random-search-and-hyperparameter-scaling/)
 - [Architecting ML with Amazon SageMaker 3 day course](https://github.com/aws-samples/amazon-sagemaker-architecting-for-ml)
 - [Classification of chest x-rays with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/classifying-high-resolution-chest-x-ray-medical-images-with-amazon-sagemaker/)
+- [Building predictive disease models using Amazon SageMaker with Amazon HealthLake normalized data](https://aws.amazon.com/blogs/machine-learning/building-predictive-disease-models-using-amazon-sagemaker-with-amazon-healthlake-normalized-data/)
 
 #### AI Services 
-- [Custom Classifier with Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-a-custom-classifier-using-amazon-comprehend/)
 - [Amazon Rekognition custom labels](https://aws.amazon.com/blogs/machine-learning/announcing-amazon-rekognition-custom-labels/)
+- [Applying voice classification in an Amazon Connect telemedicine contact flow](https://aws.amazon.com/blogs/machine-learning/applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow/)
+- [Building a medical image search platform on AWS](https://aws.amazon.com/blogs/machine-learning/building-a-medical-image-search-platform-on-aws/)
+- [Custom Classifier with Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/building-a-custom-classifier-using-amazon-comprehend/)
 - [Build a custom entity recognizer using Amazon Comprehend](https://aws.amazon.com/blogs/machine-learning/build-a-custom-entity-recognizer-using-amazon-comprehend/)
 - [De-identify medical images with the help of Amazon Comprehend Medical and Amazon Rekognition](https://aws.amazon.com/blogs/machine-learning/de-identify-medical-images-with-the-help-of-amazon-comprehend-medical-and-amazon-rekognition/)
 - [Map clinical notes to the OMOP Common Data Model and healthcare ontologies using Amazon Comprehend Medical](https://aws.amazon.com/blogs/machine-learning/map-clinical-notes-to-the-omop-common-data-model-and-healthcare-ontologies-using-amazon-comprehend-medical/)
+- [Population health applications with Amazon HealthLake](https://aws.amazon.com/blogs/machine-learning/population-health-applications-with-amazon-healthlake-part-1-analytics-and-monitoring-using-amazon-quicksight/)
+- [Introduction to Amazon Transcribe](https://www.aws.training/Details/Video?id=19443&trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
+- [Introduction to Amazon Comprehend Medical](https://www.aws.training/Details/Video?id=27159&trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
+- [Enabling efficient patient care using Amazon AI services](https://aws.amazon.com/blogs/industries/enabling-efficient-patient-care-using-amazon-ai-services/?trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
+- [Population health applications with Amazon HealthLake](https://aws.amazon.com/blogs/machine-learning/population-health-applications-with-amazon-healthlake-part-1-analytics-and-monitoring-using-amazon-quicksight/)
+
 
 ### Videos
 
@@ -183,6 +201,7 @@ Learn about end-to-end Machine Learning resources in AWS like Amazon SageMaker, 
 - [Amazon SageMaker deep dive: A modular solution for machine learning](https://www.youtube.com/watch?v=Ac5m4-xWtCU)
 - [ Insights into patient health with Amazon Comprehend Medical](https://www.youtube.com/watch?v=x9HD0tT6pDk)
 - [Build accurate training datasets with Amazon SageMaker Ground Truth](https://www.youtube.com/watch?v=6WJxzKsIFKA)
+- [How Amazon Sagemaker can help?](https://www.aws.training/Details/Video?id=49646&trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
 
 ### Tutorials
 
@@ -306,7 +325,27 @@ Enable, Provision, and Operate at scale by using AWS Control Tower for your acco
 - [Architecting security & governance across your landing zone](https://www.youtube.com/watch?v=zVJnenaD3U8)
 - [Deep dive into AWS Cloud Development Kit](https://www.youtube.com/watch?v=9As_ZIjUGmY)
 
+## Genomics
+
+### General Information
+
+### Workshops
+
+### Blogs
+
+- [A generalized approach to benchmarking genomics workloads in the cloud](https://aws.amazon.com/blogs/publicsector/generalized-approach-benchmarking-genomics-workloads-cloud-bwa-read-aligner-graviton2/?trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certifica)
+- [Using Amazon FSx for Lustre for Genomics Workflows on AWS](https://aws.amazon.com/blogs/storage/using-amazon-fsx-for-lustre-for-genomics-workflows-on-aws/?trkCampaign=GLBL-FY21-TRAINCERT-RUG&sc_channel=el&sc_campaign=GLBL-FY21-TRAINCERT-RUG-Health&sc_outcome=Training_and_Certification)
+
+
+### Videos
+
+
+
 ### Tutorials
+- [Genomics Secondary Analysis Using AWS Step Functions and AWS Batch](https://aws.amazon.com/solutions/implementations/genomics-secondary-analysis-using-aws-step-functions-and-aws-batch/?did=sl_card&trk=sl_card)
+- [Hail on AWS](https://aws.amazon.com/quickstart/architecture/hail/)
+- [Genomics Tertiary Analysis and Data Lakes Using AWS Glue and Amazon Athena](https://aws.amazon.com/solutions/implementations/genomics-tertiary-analysis-and-data-lakes-using-aws-glue-and-amazon-athena/?did=sl_card&trk=sl_card)
+- [Genomics Tertiary Analysis and Machine Learning Using Amazon SageMaker](https://aws.amazon.com/solutions/implementations/genomics-tertiary-analysis-and-machine-learning-using-amazon-sagemaker/?did=sl_card&trk=sl_card)
 
 
 ## Contribute
@@ -318,5 +357,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Randy Ridgley has waived all copyright and
+To the extent possible under law, Bharath Gunapati has waived all copyright and
 related or neighboring rights to this work.
